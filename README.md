@@ -8,8 +8,6 @@ In this project, we
 
 ## Data
 
-Data
-
 In food webs, species are the nodes and feeding interactions are the edges. The edges are directed flows of biomass and energy that occur when one species feeds on another.
 The food web graph used for this analytical study is simple, unweighted, unipartite and directed. In this network, nodes are compartments (organisms and species or sources of energy in the foodweb) and edges represent energy flow (A directed edge from i to j means that carbon is transferred from i to j i.e. organism j eats organism i).
 
