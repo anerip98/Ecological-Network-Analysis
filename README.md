@@ -22,6 +22,18 @@ In addition, vertices are partitioned into different types as follows:
 
 Group classification labels (derived from ATLSS) are included with this network data. Example groups include"Zooplankton Microfauna" and "Pelagic Fishes".
 
+
+## Observations
+The order of the network is 128. This measures the species richness of the community.
+
+Water POC’ (node 122) has the highest betweenness centrality out of all the nodes. The second highest betweenness centrality is that of ’Benthic POC’ (node123). Both of these nodes belongs to the group ’Detritus’. Detrivores consume detritus and almost every organism gets converted into detritus. Therefore, due to highout-degree of these nodes their betweenness centrality ishigh.
+
+
+
+Species with extreme values of eigenvector centrality can therefore be viewed as strong contributors to the stability or instability of a food web.
+As ’Respiration’ is connected to all the living organisms,the out-degree is high and will be connected to importantnodes which leads to the highest eigenvector centrality.The second highest eigenvector centrality is that of ’WaterPOC’ (node 122). This measure shows a similarity withthe results of the betweenness centrality in this case. The 3^{rd} highest value is that of the raptor species, followed by Avifauna as the 4^{th}.
+
+Interestingly, we don’t get a clear distinction between each group through community detection. Many groups are evenly distributed in all the communities. This phenomenon presumably indicates that the roles of these species in the carbon exchange cannot be derived fromthe traditional divisions in a trivial manner. For example,though both are mammals, the manatee and the dolphin have very diverse diets. The manatee feeds on submergent aquatic vegetation, and the dolphin feeds on small fishesand shrimps. Consequently, one would expect that themanatee and the dolphin play different roles in the carbon exchange.
 ## Contributors:
 [Aneri Patel](https://github.com/anerip98)
 
