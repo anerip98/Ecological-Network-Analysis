@@ -1,5 +1,7 @@
 # A Quantitative Characterization of Ecosystem Structure and Function of the South Florida Wetlands 
 
+The work in this repository is done for the Introduction to Complex Networks at DA-IICT.
+
 Ecological communities are best represented as networks. Knowledge of simple and complex interactions between species in an ecosystem is an additional layer of information that network measures exploit to quantify biodiversity. In this notebook, a food web network in the wetlands of South Florida has been analysed.
 In this project, we 
     * attempt to understand the general structure of the food web network.
