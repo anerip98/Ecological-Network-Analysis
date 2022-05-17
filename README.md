@@ -22,7 +22,7 @@ In addition, vertices are partitioned into different types as follows:
 
 Group classification labels (derived from ATLSS) are included with this network data. Example groups include"Zooplankton Microfauna" and "Pelagic Fishes".
 
-<img src="https://github.com/anerip98/ecological-network-analysis/blob/main/network.png" width=800>
+<img src="https://github.com/anerip98/ecological-network-analysis/blob/main/network.png" width=1000>
 
 ## Observations
 The order of the network is 128. This measures the species richness of the community.
