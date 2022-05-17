@@ -22,8 +22,6 @@ In addition, vertices are partitioned into different types as follows:
 
 Group classification labels (derived from ATLSS) are included with this network data. Example groups include"Zooplankton Microfauna" and "Pelagic Fishes".
 
-Network:
-
 <img src="https://github.com/anerip98/ecological-network-analysis/blob/main/network.png" width=800>
 
 ## Observations
